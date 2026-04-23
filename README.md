@@ -34,3 +34,20 @@ This portfolio brings together practical examples of applied AI, prompt workflow
 ![Services section](images/services.png)
 
 ![Offer section](images/offer.png)
+## Services focus
+
+BM AI Studio is centered on practical digital support for service-based businesses that need clearer messaging, stronger presentation and more efficient digital workflows.
+
+### Typical areas of work
+- strategic landing pages
+- offer structure and service presentation
+- AI-assisted writing and content organization
+- lightweight automations for lead capture and internal workflows
+- practical digital support for small businesses and personal brands
+
+## Example use cases
+- improving a service website so the offer is easier to understand
+- structuring a landing page for lead generation
+- organizing service packages more clearly
+- connecting forms to simple automation workflows
+- improving digital presentation for small brands and local businesses
