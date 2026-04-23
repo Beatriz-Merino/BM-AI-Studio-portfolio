@@ -1,2 +1,1 @@
-# bm-ai-studio-portfolio
-Portfolio of practical AI, prompt workflows, digital operations and strategic web projects.
+Portfolio of practical AI projects, agile workflows, digital operations and strategic web solutions.
