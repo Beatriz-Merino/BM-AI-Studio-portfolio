@@ -3,7 +3,7 @@
 Portfolio of practical AI projects, agile workflows, digital operations and strategic web solutions.
 
 ## About
-BM AI Studio is focused on practical digital solutions that combine AI, content systems, lightweight automation and strategic web thinking.
+BM AI Studio focuses on practical digital solutions that combine AI, content systems, lightweight automation and strategic web thinking.
 
 ## Main areas
 - AI-assisted writing and structured content
