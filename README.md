@@ -25,3 +25,11 @@ This portfolio brings together practical examples of applied AI, prompt workflow
 ## Links
 - Website: https://bm-ai-studio.lovable.app
 - LinkedIn: https://www.linkedin.com/in/beatrizmerinomunoz/
+## Visual examples
+
+### BM AI Studio website
+![Homepage](images/homepage.png)
+
+![Services section](images/services.png)
+
+![Offer section](images/offer.png)
